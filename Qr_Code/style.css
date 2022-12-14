@@ -1,0 +1,78 @@
+.main{
+    width: 17em;
+    height: 400px;
+   padding: 1px;
+  
+    }
+   
+   .image-container{
+     border-radius: 13px;
+     width :89%;
+     height: 57%;
+      
+     margin: 10px auto;
+     background: url(./images/image-qr-code.png) no-repeat  center center ;
+     background-size: cover;
+     max-width : 90%;
+   }
+   
+   
+   
+   .arc-sect{
+     text-align:center;
+  padding-top: 9px;
+   }
+   
+p{
+   
+  margin: 1.5em auto;
+   }
+
+   
+   
+    html{
+     width:100%;
+   } 
+   
+   *{
+    padding:0;
+    margin:0;
+    border:0;
+  
+  } 
+   .wrapper{
+      
+    width: 17em;
+    margin: 90px auto;
+    background-color: hsl(0, 0%, 100%);
+  border: 10px solid white;
+    border-radius: 13px ;
+   }
+
+   .attribution{
+     width: 100%;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    left: 0; 
+    text-align: center;
+
+   }
+
+   body{
+    font-size: 0.9375rem;
+    background-image: linear-gradient(0.25turn,#fff,rgb(240, 242, 245),rgba(201, 199, 199, 0.63)) ; 
+    font-family: 'Outfit', sans-serif;
+    /* font-weight: 400 700; */
+   }
+
+   h1{
+    font-weight: 700;
+    color: black;
+  
+   }
+
+   p{
+    font-weight: 400;
+    color: hsl(220, 15%, 55%);
+   }
