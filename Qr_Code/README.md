@@ -25,8 +25,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: (https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
-- Live Site URL: (https://gleeful-babka-ef25e3.netlify.app)
+- Solution URL: [URL](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
+- Live Site URL: [Live URL](https://hilarious-syrniki-02360e.netlify.app)
 
 ## My process
         keep going  🐱‍👤 
@@ -54,7 +54,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - https://gleeful-babka-ef25e3.netlify.app
+- Website - [website 👩‍💻](https://hilarious-syrniki-02360e.netlify.app)
 - Frontend Mentor - [@Sivin-Wi](https://www.frontendmentor.io/profile/Sivin-Wi)
 
 
