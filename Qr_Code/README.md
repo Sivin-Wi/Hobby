@@ -21,15 +21,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshot
 
 ![](./screenshoot/Screenshot%202022-12-15%20at%2001-26-18%20Frontend%20Mentor%20QR%20code%20component.png)
-
 ![](./screenshoot/Screenshot%202022-12-15%20at%2001-26-35%20Frontend%20Mentor%20QR%20code%20component.png)
-
-
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
+- Live Site URL: (https://gleeful-babka-ef25e3.netlify.app)
 
 ## My process
         keep going  🐱‍👤 
@@ -57,7 +54,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - (https://gleeful-babka-ef25e3.netlify.app)
 - Frontend Mentor - [@Sivin-Wi](https://www.frontendmentor.io/profile/Sivin-Wi)
 
 
