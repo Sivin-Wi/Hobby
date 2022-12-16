@@ -54,7 +54,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - (https://gleeful-babka-ef25e3.netlify.app)
+- Website - https://gleeful-babka-ef25e3.netlify.app
 - Frontend Mentor - [@Sivin-Wi](https://www.frontendmentor.io/profile/Sivin-Wi)
 
 
